@@ -17,6 +17,7 @@ class CfgPatches
 class CfgWeapons
 {
 	class OPTRE_UNSC_Army_Uniform_BLK_SlimLeg;
+	class UniformItem;
 	class 11th_Uniforms_Base: OPTRE_UNSC_Army_Uniform_BLK_SlimLeg
 	{
 		author = "Ithias";
