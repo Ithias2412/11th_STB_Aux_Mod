@@ -18,6 +18,7 @@ class CfgPatches
 class CfgWeapons
 {
 	class OPTRE_UNSC_CH252D_Helmet;
+	class HelmetItem; 
 	class 11t_Helmets_Test: OPTRE_UNSC_CH252D_Helmet
 	{
 		author = "Saiko";
