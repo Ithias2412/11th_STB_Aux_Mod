@@ -18,7 +18,7 @@ class CfgPatches
 class Cfgweapons
 {
 	class OPTRE_UNSC_M52D_Armor;
-	class VestItem
+	class VestItem;
 	class 11th_Vests_Base: OPTRE_UNSC_M52D_Armor
 	{
 		author = "Saiko";
