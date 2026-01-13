@@ -19,7 +19,7 @@ class CfgWeapons
 {
 	class OPTRE_UNSC_CH252D_Helmet;
 	class HelmetItem; 
-	class 11th_Helmets_Test: OPTRE_UNSC_CH252D_Helmet
+	class 11th_Helmet_Base: OPTRE_UNSC_CH252D_Helmet
 	{
 		author = "Saiko";
 		displayName = "[11th] ODST Helmet";
