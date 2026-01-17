@@ -22,7 +22,7 @@ class Cfgweapons
 	class 11th_Vests_Base: OPTRE_UNSC_M52D_Armor
 	{
 		author = "Saiko";
-		displayName = "[11th] ODST Helmet";
+		displayName = "[11th] ODST Vests";
 		hiddenSelections[] =
 		{
 			"camo",
