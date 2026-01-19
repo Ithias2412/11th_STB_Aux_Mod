@@ -33,7 +33,7 @@ class CfgWeapons
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"11th_STB_Aux_Mod\Helmets\Tex\odst_helmet_co.paa",
+			"11TH STB AUX\GITHUB\11th_STB_Aux_Mod\Helmets\Tex\odst_helmet_co.paa",
 			"optre_unsc_units\army\data\odst_helmet_visor_co.paa",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\soft_packs_co.paa"
