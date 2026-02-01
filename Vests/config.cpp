@@ -69,9 +69,9 @@ class Cfgweapons
 		};
 		hiddenSelectionsTextures[] = 
 		{
-			"OPTRE_UNSC_Units\Army\data\vest_odst_co.paa",
+			"optre_unsc_units\army\data\vest_odst_co.paa",
 			"optre_unsc_units\army\data\armor_odst_co.paa",
-			"optre_unsc_units\army\data\legs_odst_co.paa",
+			"11th_STB_Aux_Mod\Vests\Tex\legs_odst_co.paa",
 			"optre_unsc_units\army\data\ghillie_woodland_co.paa",
 			"optre_unsc_units\army\data\odst_armor_co.paa"
 		};
